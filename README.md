@@ -84,6 +84,9 @@
 
 * [Fast Meals and Quick Snacks](https://www.cdph.ca.gov/HealthInfo/healthyliving/childfamily/Documents/MO-NUPA-TeenCookbook.pdf)
 * [Heart Healthy Home Cooking](https://www.nhlbi.nih.gov/files/docs/public/heart/cooking.pdf)
+* [The Great Little Cookbook](http://www.workandincome.govt.nz/documents/brochures/the-great-little-cookbook.pdf)
+* [Cookbook - Let's Move!](http://www.letsmove.gov/sites/letsmove.gov/files/WHCookbook_071014.pdf)
+* [on food and cooking](http://wtf.tw/ref/mcgee.pdf)
 
 
 ### cloud
